@@ -146,11 +146,5 @@ student@pc:~$ ./check
 student@pc:~$ ./install.sh
 ```
 
-If you want to verify the coding style(based on **Google's coding style**, run:
-```bash
-student@pc:~$ cs/cs.sh *
-```
-
-> It will check the coding style on all the files in the tree and print a message inside the command line if it found something irregular.
 
 ***Thank you***
