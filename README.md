@@ -7,7 +7,7 @@
 > + The README file included in the repo is just so the checker gives 100 points on this homework.
 > + After reading what each problem does you can go on and [run the code](#how-to-run-the-code) or [check the problems](#how-to-run-the-checker).
 
-## Contents:
+# Contents:
 1. [Short Description](#short-description)
 1. [Problem 1](#on-the-fly-analysis)
 2. [Problem 2](#natural-numbers-properties)
