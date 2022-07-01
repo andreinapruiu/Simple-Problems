@@ -151,9 +151,9 @@ student@pc:~$ ./install.sh
 
 If you want to verify the coding style(based on **Google's coding style**, run:
 ```bash
-student@pc:~$ cs/cs.sh *
+student@pc:~$ cs/cs.sh <file>
 ```
 
-> It will check the coding style on all the files in the tree and print a message inside the command line if it found something irregular.
+> It will check the coding style on the file in the tree and print a message inside the command line if it found something irregular.
 
 ***Thank you***
