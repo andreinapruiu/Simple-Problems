@@ -154,6 +154,6 @@ If you want to verify the coding style(based on **Google's coding style**, run:
 student@pc:~$ cs/cs.sh <file>
 ```
 
-> It will check the coding style on the <file> in the tree and print a message inside the command line if it found something irregular.
+> It will check the coding style on the \<file\> in the tree and print a message inside the command line if it found something irregular.
 
 ***Thank you***
