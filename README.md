@@ -14,6 +14,8 @@
 2. [Problem 2](#natural-numbers-properties)
 3. [Problem 3](#improving-scores)
 4. [Problem 4](#nomogram-checker)
+5. [How to run the code?](#how-to-run-the-code)
+6. [How to run the checker](#how-to-run-the-checker)
 
 ## Short description
 This was a homework given during the **PC(Computer Programming)** course in my first year. As seen below, I had to solve 4 different problems of various difficulties. The problems were supposed to be an introduction to C programming language by using static structures, such as arrays and matrixes, or even simple functions to solve algorithmical questions. It was a simple and fun homework. Each of the 4 problems will be described below.
