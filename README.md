@@ -3,6 +3,7 @@
 # First PC Homework - Functions and static structures(Arrays, Matrix)
 
 > **Mentions before start:**
+> + Main code is found inside ***ninel.c, vectsecv.c, codeinvim.c*** and ***nomogram.c*** files.
 > + The actual pdf with all the requirements for this homework can be found [here](https://github.com/andreinapruiu/pdfs-PC/blob/main/Programare_2021___Tema_1.pdf).
 > + The README file included in the repo is just so the checker gives 100 points on this homework.
 > + After reading what each problem does you can go on and [run the code](#how-to-run-the-code) or [check the problems](#how-to-run-the-checker).
